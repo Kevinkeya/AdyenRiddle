@@ -46,6 +46,7 @@ public class BotStarter {
         // TODO: Change these example checks for useful ones and add more checks
         this.checks.add(new ExampleCheck1(1));
         this.checks.add(new ExampleCheck2(2));
+        this.checks.add(new ExampleCheck2(3));
     }
 
     /**
